@@ -1,6 +1,6 @@
 
 // Variáveis para armazenar nome, quantidade de XP e nível do herói
-let nickname = "Galadriela"  // Alterar nome do Jogador
+let nickname = "NomeDoJogador"  // Alterar nome do Jogador
 let PontosXP = 8.856           // Alterar quantidade de XP ganha
 let nivelJogador = ""
 
